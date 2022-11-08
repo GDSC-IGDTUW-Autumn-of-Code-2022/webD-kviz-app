@@ -37,6 +37,7 @@ This is a quiz app made using open trivia database API. The questions are dynami
 - Please mention your full name on your GitHub handle to be eligible for prizes.
 
 
+
 You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
 Contribution period ends: 22 December 2022
 
