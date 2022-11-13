@@ -1,11 +1,12 @@
 
 # KVIZ
 
+
 <p align="center">
   <img src= "https://user-images.githubusercontent.com/79600026/200431384-af567229-516e-48ca-aa25-e99660b5e37b.jpg" alt="13" width="350"/>
 </p>
 
-This is a quiz app made using open trivia database API. The questions are dynamic and highscores are stored in local storage. 
+This is a quiz app made using open trivia database API. The questions are dynamic and highscores are stored in local storage.It has 10 questions  of 10 marks each . Let us see who wins this game and Win this Autumn of Code Challenge 
 
 ## Tech stack used
 * HTML
