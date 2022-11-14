@@ -5,6 +5,10 @@ const scoreText = document.getElementById('score');
 const progressBarFull = document.getElementById('progressBarFull');
 const loader = document.getElementById('loader');
 const game = document.getElementById('game');
+
+var soundCorrect = new Audio("sounds/correctAns.mp3");
+var soundIncorrect = new Audio("sounds/wrongAns.mp3");
+
 let currentQuestion = {};
 let acceptingAnswers = false;
 let score = 0;
@@ -96,6 +100,9 @@ choices.forEach((choice) => {
 
         if (classToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
+            soundCorrect.play();
+        }else {
+            soundIncorrect.play();
         }
 
         selectedChoice.parentElement.classList.add(classToApply);
