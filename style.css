@@ -1,5 +1,4 @@
-
-@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script:wght@400;700&family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@400;600&display=swap');
 
 :root {
   background: linear-gradient(to right, rgb(205, 219, 250), rgb(181, 247, 247));
@@ -8,7 +7,7 @@
 
 * {
   box-sizing: border-box;
-  font-family: "architects daughter";
+  font-family: "Sono";
   margin: 0;
   padding: 0;
   color: #333;
@@ -25,6 +24,7 @@ h1 {
   font-size: 7rem;
   color: #3083cc;
   margin-bottom: 1rem;
+  font-weight: 600;
 }
 
 h1 > span {
