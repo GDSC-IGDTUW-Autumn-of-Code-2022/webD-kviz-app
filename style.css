@@ -10,7 +10,7 @@
   font-family: "Sono";
   margin: 0;
   padding: 0;
-  color: #333;
+  color: #3083cc;
 }
 
 h1,
@@ -41,6 +41,66 @@ h2 {
 h3 {
   font-size: 2.8rem;
   font-weight: 500;
+}
+
+/*Toggle*/
+
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  transition: background-color 0.2s linear;
+}
+body.dark {
+  background-color: #292c35;
+}
+.checkbox {
+  opacity: 0;
+  position: relative;
+  margin-left: -12rem;
+  margin-top: 65rem;
+}
+
+.label {
+  width: 50px;
+  height: 26px;
+  background-color:#111;
+  display: flex;
+  border-radius:50px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px;
+  position: relative;
+  transform: scale(1.5);
+}
+
+.ball {
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  border-radius: 50%;
+  transition: transform 0.2s linear;
+}
+
+/*  target the elemenent after the label*/
+.checkbox:checked + .label .ball{
+  transform: translateX(24px);
+}
+
+.fa-moon {
+  color: pink;
+}
+
+.fa-sun {
+  color: yellow;
 }
 
 /* UTILITIES */
