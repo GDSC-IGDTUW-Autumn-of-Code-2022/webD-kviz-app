@@ -144,6 +144,15 @@ body.dark {
   display: none;
 }
 
+.picture{
+  height :40px ;width : 40px ;
+  text-align: center;
+  border: 0.1rem solid #56a5eb;
+  color: #56a5eb;
+  background-color: rgb(235, 244, 253);
+  border-radius:20% ;
+}
+
 /* BUTTONS */
 .btn {
   font-size: 1.8rem;
