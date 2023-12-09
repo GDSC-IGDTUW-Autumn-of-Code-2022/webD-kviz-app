@@ -5,7 +5,7 @@
   <img src= "https://user-images.githubusercontent.com/79600026/200431384-af567229-516e-48ca-aa25-e99660b5e37b.jpg" alt="13" width="350"/>
 </p>
 
-This is a quiz app made using open trivia database API. The questions are dynamic and highscores are stored in local storage. 
+This is a quiz app made using open trivia database API. The questions are dynamic and high scores are stored in local storage. 
 
 ## Tech stack used
 * HTML
@@ -39,7 +39,7 @@ This is a quiz app made using open trivia database API. The questions are dynami
 
 
 You can take up any of the existing issues or create a new to to contribute any of your own projects!<br/> 
-Contribution period ends: 22 December 2022
+Contribution period ends: 26 January 2024
 
 
 ## How to get started?
@@ -54,22 +54,6 @@ You can refer to the following resources on Git and Github to get started and co
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-
-
-## Prizes 
-- Top 3 contributors 🍁<br/> 
-Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
-
-- Top 5 female contributors 🍁 <br/>
-Special prize | Swag Kits | Shoutouts on Social Media handles | Certificate of appreciation
-
-- Top 10 contributors 🍁 <br/>
-Shoutouts on Social Media handles | Swag kits and lots of exciting goodies | Certificate of appreciation
-
-- Top 25 contributors 🍁 <br/>
-Swag kits and lots of exciting goodies | Certificate of appreciation
-
-- All the contributors will get a certificate of appreciation for their first successful pull request
 
 
 Join our [Discord](https://discord.gg/KKFUVma6) to stay in touch with project mentors and for any furthur questions. 
