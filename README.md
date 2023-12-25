@@ -19,8 +19,10 @@ This is a quiz app made using open trivia database API. The questions are dynami
 
 
 
-![App Screenshot](https://drive.google.com/file/d/1haT-bisw9XO1iWNXOTjJfzK1DKNtTlS_/view?usp=sharing)
-![App Screenshot](https://drive.google.com/uc?export=view&id=1hSyUDN-6MRIbReleCvmtHX4bv032nFfK)
+![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/webD-kviz-app/assets/94298791/1a95d85d-c2cd-4314-8a11-796556b7f10b)
+
+![image](https://github.com/GDSC-IGDTUW-Autumn-of-Code-2022/webD-kviz-app/assets/94298791/669e6143-2c86-434d-aec9-be9e6ba8a429)
+
 
 
 ## CONTRIBUTING TO THIS PROJECT
@@ -44,9 +46,9 @@ Contribution period ends: 26 January 2024
 
 ## How to get started?
 
-You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.gg/xTNC4MGB) if you have any doubts.
+You can refer to the following resources on Git and Github to get started and contact our Project Mentors via [Discord](https://discord.com/invite/SzpZBPXPVA) if you have any doubts.
 
-- [Learn how to contribute to GDSC IGDTUW Autumn of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
+- [Learn how to contribute to GDSC IGDTUW SnowScript Winter of Code Projects](https://www.youtube.com/watch?v=Hcc1LXldeJk)
 - [Go through this repository to how to contribute learn step-by-step](https://github.com/firstcontributions/first-contributions)
 - [Watch this video to get started](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
@@ -56,6 +58,6 @@ You can refer to the following resources on Git and Github to get started and co
 
 
 
-Join our [Discord](https://discord.gg/KKFUVma6) to stay in touch with project mentors and for any furthur questions. 
+Join our [Discord](https://discord.com/invite/SzpZBPXPVA) to stay in touch with project mentors and for any furthur questions. 
 
 
